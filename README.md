@@ -22,4 +22,5 @@ App Screenshot
 References:
 --------
 1. https://arxiv.org/vc/arxiv/papers/1309/1309.2423v5.pdf
-2. https://github.com/haxxorsid/watermark-dwt-matlab
+2. https://in.mathworks.com/matlabcentral/fileexchange/25772-convert-text-to-an-image-updated
+3. https://github.com/haxxorsid/watermark-dwt-matlab
